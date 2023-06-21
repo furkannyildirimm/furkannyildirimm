@@ -6,9 +6,13 @@ I'm Furkan, a Mechanical Engineer with a passion for iOS development. Welcome to
 - 🌱 I’m constantly learning and exploring new technologies in the iOS ecosystem.
 - 📫 How to reach me: furkannyildirimm@hotmail.com
 
-## GitHub Stats & Top Languages
+## GitHub Stats
 
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkannyildirimm&theme=dark&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkannyildirimm&layout=compact&theme=dark)
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkannyildirimm&theme=dark&show_icons=true)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkannyildirimm&layout=compact&theme=dark)
 
 ## Projects
 
@@ -26,5 +30,3 @@ Feel free to explore my repositories for more projects and contributions!
 - LinkedIn: [Furkan Yıldırım](https://www.linkedin.com/in/furkanyildirimm/)
 
 Let's connect and collaborate on exciting iOS projects!
-
-
