@@ -18,9 +18,9 @@ I'm Furkan, a Mechanical Engineer with a passion for iOS development. Welcome to
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/furkannyildirimm/MusicApp): 
-- [Project 2](https://github.com/furkannyildirimm/NewsApp): 
-- [Project 3](https://github.com/furkannyildirimm/Yummie): 
+- [Music App](https://github.com/furkannyildirimm/MusicApp): This is a music application developed using the Swift programming language. The application allows users to play music, discover songs, and utilize various features.
+- [News App](https://github.com/furkannyildirimm/NewsApp): This project is developed in Swift language to build a news application using the NYTimes API. The application retrieves news articles from NYTimes and displays them to the users.
+- [Yummie Clone](https://github.com/furkannyildirimm/Yummie)
 
 Feel free to explore my repositories for more projects and contributions!
 
