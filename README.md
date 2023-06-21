@@ -8,11 +8,12 @@ I'm Furkan, a Mechanical Engineer with a passion for iOS development. Welcome to
 
 ## GitHub Stats
 
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkannyildirimm&theme=dark&show_icons=true)
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkannyildirimm&theme=dark&show_icons=true) ![Profile Visitors](https://komarev.com/ghpvc/?username=furkannyildirimm)
+
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkannyildirimm&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furkannyildirimm&layout=compact&theme=dark) 
 
 ## Projects
 
