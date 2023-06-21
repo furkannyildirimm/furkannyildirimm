@@ -1,3 +1,5 @@
+![Profile Visitors](https://komarev.com/ghpvc/?username=furkannyildirimm)
+
 # Hi there! 👋
 
 I'm Furkan, a Mechanical Engineer with a passion for iOS development. Welcome to my GitHub profile!
@@ -8,8 +10,7 @@ I'm Furkan, a Mechanical Engineer with a passion for iOS development. Welcome to
 
 ## GitHub Stats
 
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkannyildirimm&theme=dark&show_icons=true) ![Profile Visitors](https://komarev.com/ghpvc/?username=furkannyildirimm)
-
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkannyildirimm&theme=dark&show_icons=true) 
 
 ## Top Languages
 
