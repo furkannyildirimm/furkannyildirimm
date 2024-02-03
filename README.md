@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I'm Furkan, a Mechanical Engineer with a passion for iOS development. Welcome to my GitHub profile!
+I'm Furkan, with a passion for iOS development. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on improving my Swift skills and building iOS applications.
 - 🌱 I’m constantly learning and exploring new technologies in the iOS ecosystem.
