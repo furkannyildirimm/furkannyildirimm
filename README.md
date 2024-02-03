@@ -2,8 +2,6 @@
 
 # Hi there! 👋
 
-![FURKAN YILDIRIM](https://github.com/furkannyildirimm/furkannyildirimm/assets/114835668/1fc883cd-517c-4c1a-b7ef-7c825cb09ba9)
-
 I'm Furkan, a Mechanical Engineer with a passion for iOS development. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on improving my Swift skills and building iOS applications.
